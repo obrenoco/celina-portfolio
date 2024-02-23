@@ -11,8 +11,5 @@
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "3.1.8"
-  },
-  "dependencies": {
-    "micromodal": "^0.4.10"
   }
 }
